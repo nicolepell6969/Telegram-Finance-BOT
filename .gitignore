@@ -62,3 +62,6 @@ secrets/
 
 # Artifacts (documentation workspace)
 .gemini/
+
+# Git automation scripts
+git-push.sh
