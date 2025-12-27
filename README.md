@@ -191,16 +191,16 @@ GOOGLE_SHEET_ID=your_sheet_id_here
 
 ```env
 # Telegram Bot
-TELEGRAM_BOT_TOKEN=7872368447:AAHt2lTFFo-PE9nxDc_eRB...
+TELEGRAM_BOT_TOKEN=1234567890:ABCdefGHIjklMNOpqrsTUVwxyz-EXAMPLE
 
 # Groq AI (Voice)
-GROQ_API_KEY=gsk_LrkjRSC1DYQFaH4vK61nWGdyb...
+GROQ_API_KEY=gsk_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 # Google Gemini (Text + Photo)
-GEMINI_API_KEY=AIzaSyDs55k-QADrcgYrSoHgb5H0Q-_oitRtUTY
+GEMINI_API_KEY=AIzaSyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 # Google Sheets
-GOOGLE_SHEET_ID=1ABcd-EFgh_IJklMNopQRST...
+GOOGLE_SHEET_ID=1ABcd-EFgh_IJklMNopQRSTuvwxyz-EXAMPLE-ID
 GOOGLE_APPLICATION_CREDENTIALS=./service-account-key.json
 ```
 
