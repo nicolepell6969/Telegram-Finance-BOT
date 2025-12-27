@@ -71,37 +71,7 @@ pm2 logs finance-bot
 
 ---
 
-## 🔄 Automated Git Workflow
-
-**Auto-push script with security checks:**
-
-```bash
-# Push changes to GitHub (with API key scanning)
-./git-push.sh "Your commit message"
-
-# Or if no message provided, it will prompt you
-./git-push.sh
-```
-
-**Features:**
-- ✅ Auto-scans for exposed API keys
-- ✅ Blocks commit if credentials found
-- ✅ Pre-commit hook protection
-- ✅ One-command push
-
-**Example:**
-```bash
-./git-push.sh "Add new feature"
-# Will automatically:
-# 1. Check for API keys
-# 2. Git add all changes
-# 3. Commit with message
-# 4. Push to GitHub
-```
-
----
-
-## 🔑 API Keys Setup
+##  API Keys Setup
 
 ### 1. Telegram Bot Token
 
